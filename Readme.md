@@ -78,7 +78,7 @@ built as part of a Data Analyst portfolio project.
 
 ## Key Findings
 
-A detailed analysis of findings from all queries is available in [findings.md](findings.md)
+A detailed analysis of findings from all queries is available in [Findings.md](Findings.md)
 
 Key highlights:
 - Lewis Hamilton leads all-time race wins with 103 wins and he is the only driver to win more than a hundred races
@@ -93,7 +93,7 @@ Key highlights:
 1. Download the dataset from Kaggle
 2. Import the CSV files into SQLite using DB Browser or VS Code 
    with the SQLite extension
-3. Open `f1_sql_portfolio.sql` and run queries individually 
+3. Open `F1_Sql_Portfolio.sql` and run queries individually 
    or as a full script
 
 ---
@@ -101,5 +101,5 @@ Key highlights:
 ## Author
 
 **Vedansh Khandelwal**  
-Aspiring Data Analyst | SQL · Power BI · Excel  
+Data Analyst | SQL · Power BI · Excel  
 [LinkedIn](https://www.linkedin.com/in/vedanshkhandelwal/)
